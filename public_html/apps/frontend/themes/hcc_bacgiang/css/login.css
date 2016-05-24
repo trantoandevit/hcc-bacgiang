@@ -1,0 +1,52 @@
+.box_dn .modal-header {background: #4C64BB;color: #ffffff;height: 42px;}
+
+.box_dn .modal-header h4 {
+    margin: 0px;
+    line-height: 14px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.box_dn .modal-header button {
+    display: none;
+}
+.box_dn {
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+.qrf_row {
+    line-height: 40px !important;
+}
+.box_dn .modal-body label {
+    font-size: 13px !important;
+    font-weight: bold !important;
+    color: #615F5F;
+}
+.box_dn .modal-body button {
+    /* border-radius: 0px; */
+    height: 30px;
+    background: #3453C5;
+    padding: 2px 15px;
+    font-size: 14px;
+    border: 0px;
+    float: left;
+    font-family: "Open Sans", sans-serif;
+}
+.box_dn .modal-body button:hover {
+    opacity: 0.8;
+}
+.box_dn .modal-body label span {
+    color: red;
+    font-weight: 200;
+}
+.box_dn .modal-body img {
+    width: 98px;
+    max-width: 100%;
+    margin: auto 0px;
+    height: 33px;
+    display: block;
+}
+.box_dn .modal-body {
+    padding: 25px 59px;
+}
